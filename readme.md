@@ -53,11 +53,15 @@ The objective of **SQL Playground** is to provide an interactive platform for au
 ## **🎨 Snapshots of Project** 
 ![Screenshot 2025-01-13 190756](https://github.com/user-attachments/assets/6914e432-e0c3-4049-929c-bd428ba47e9b)
 ![Screenshot 2025-01-13 190832](https://github.com/user-attachments/assets/e6192675-896c-45b4-b601-3b46f1840cba)
-![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/2ce7dacf-3fcc-439e-9739-68aa830f2ce6)
-![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/e2721bcf-c947-46a3-9635-0a3a71ff6798)
-![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/a15c38c6-773c-4a50-b778-fa42e4f90012)
-![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/1db6bbe1-4059-4412-ae2b-55caf347d450)
-![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/9a9ca333-18dd-4d44-bdcf-1317a4bbc5ce)
+![Screenshot 2025-01-13 190858](https://github.com/user-attachments/assets/5860e54e-18c5-49bf-a746-c0099eb021a5)
+![Screenshot 2025-01-13 190929](https://github.com/user-attachments/assets/5f19211d-38cb-4cf6-a91e-02823908607d)
+![Screenshot 2025-01-13 190959](https://github.com/user-attachments/assets/745b6356-5070-4835-b478-c90176684e03)
+![Screenshot 2025-01-13 191044](https://github.com/user-attachments/assets/e1d2811f-8823-4f36-b448-8d614225887d)
+![Screenshot 2025-01-13 191135](https://github.com/user-attachments/assets/668650ad-0918-4711-8ac7-1f3e6122d4a3)
+
+
+
+
 
 ---
 
