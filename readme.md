@@ -1,7 +1,3 @@
-Here’s an interactive and professional **README.md** file for your repository:
-
----
-
 # **SQL Playground**  
 
 Welcome to **SQL Playground**, a user-friendly and interactive web app built using Streamlit that simplifies database management and SQL operations. Whether you're a beginner learning SQL or a professional managing databases , this app provides an intuitive platform for performing essential tasks with ease.  
@@ -54,13 +50,14 @@ The objective of **SQL Playground** is to provide an interactive platform for au
 
 ---
 
-## **🎨 Screenshots**  
-Add some screenshots of the app interface for better visualization.
+## **🎨 Snapshots of Project** 
+![Screenshot 2025-01-13 190756](https://github.com/user-attachments/assets/6914e432-e0c3-4049-929c-bd428ba47e9b)
+![Screenshot 2025-01-13 190832](https://github.com/user-attachments/assets/e6192675-896c-45b4-b601-3b46f1840cba)
 
 ---
 
 ## **🙌 Connect with Me**  
 - **GitHub**: [Trish-2610](https://github.com/trish-2610)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/trishansh-sahane2610)  
+- **LinkedIn**: [Trishansh Sahane](https://www.linkedin.com/in/trishansh-sahane2610)  
 
 Feel free to explore , contribute , and share your feedback. Happy coding! 🎉  
