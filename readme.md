@@ -64,7 +64,7 @@ The objective of **SQL Playground** is to provide an interactive platform for au
 
 
 ---
-## 🎥Youtube Video Demonstration : [Project](https://youtu.be/Ux_KSWF92Rg?si=rF-uZ0CzM3Ut9IKd)
+## 🎥Youtube Video Demonstration : [SQL Playground Demonstration Video](https://youtu.be/Ux_KSWF92Rg?si=rF-uZ0CzM3Ut9IKd)
 
 ## **🙌 Connect with Me**  
 - **GitHub**: [Trish-2610](https://github.com/trish-2610)  
